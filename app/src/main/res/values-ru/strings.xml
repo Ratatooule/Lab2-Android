@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаб2</string>
+    <string name="sum">Сумма</string>
+    <string name="answer">Ответ</string>
+    <string name="firstNumber">Введите первое число</string>
+    <string name="secondNumber">Введите второе число</string>
+</resources>
